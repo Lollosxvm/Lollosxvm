@@ -1,6 +1,3 @@
-# 💫 About Me:
-✨Born in south Italy, grown abroad<br>🔮 I'd like to collaborate on web development projects<br>💻 Epicode Student
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-sijinardi) 
