@@ -5,12 +5,12 @@
 
 <table border="0" cellspacing="0" cellpadding="0" 
        style="width:100%; border:0; border-collapse:collapse; border-spacing:0; margin:0;">
-  <tr>
-    <td style="width:50%; vertical-align:top; padding:8px; border:0;">
+  <tr style="border:none;">
+    <td style="width:50%; vertical-align:top; padding:8px; border:none;">
       <h3>💻 Front-End</h3>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" />
     </td>
-    <td style="width:50%; vertical-align:top; padding:8px; border:0;">
+    <td style="width:50%; vertical-align:top; padding:8px; border:none;">
       <h3>🗄️ Back-End & DB</h3>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring"
            style="vertical-align:middle;" />
