@@ -2,22 +2,22 @@
 ## 🌐 Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-sijinardi) 
 
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border:none; border-collapse:collapse; border-spacing:0; margin:0;">
   <tr>
-    <!-- Colonna Front-End -->
-    <td style="width:50%; vertical-align: top; padding: 8px; border: none;">
+    <td style="width:50%; vertical-align:top; padding:8px; border:none;">
       <h3>💻 Front-End</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" alt="Front-End Icons" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" />
     </td>
-    <!-- Colonna Back-End & DB -->
-    <td style="width:50%; vertical-align: top; padding: 8px; border: none;">
+    <td style="width:50%; vertical-align:top; padding:8px; border:none;">
       <h3>🗄️ Back-End & DB</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" alt="DB Icons" style="vertical-align:middle;" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" style="vertical-align:middle;" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-           alt="Oracle" width="40" style="vertical-align:middle; margin-left:8px;" />
+           alt="Oracle" width="40"
+           style="vertical-align:middle; margin-left:8px;" />
     </td>
   </tr>
 </table>
+
 
 
 ### 🎨 Design & Motion  
