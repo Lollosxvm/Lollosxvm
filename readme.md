@@ -3,9 +3,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-sijinardi) 
 
 
-| 💻 Front-End                                                  | 🗄️ Back-End & DB                                                                     |
-| :-----------------------------------------------------------: | :----------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" alt="Front-End Icons" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" alt="DB Icons" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" /> |
+<!-- riga dei titoli, inline -->
+<p>
+  <strong>💻 Front-End</strong>
+  &emsp;&emsp;
+  <strong>🗄️ Back-End &amp; DB</strong>
+</p>
+
+<!-- riga delle icone, inline -->
+<p>
+  <!-- Front-End icons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" alt="Front-End" />
+  &emsp;&emsp;
+  <!-- Back-End icons + Oracle -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" alt="Back-End" style="vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+       alt="Oracle" width="40" style="vertical-align:middle;" />
+</p>
+
 
 
 
