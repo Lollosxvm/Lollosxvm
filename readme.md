@@ -5,12 +5,13 @@
 ### 🎨 Design & Motion  
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Sketch](https://img.shields.io/badge/Sketch-%23FFB387.svg?style=for-the-badge&logo=sketch&logoColor=black)  
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=for-the-badge&logo=aftereffects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=premierepro&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF?style=for-the-badge&logo=aftereffects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF?style=for-the-badge&logo=premierepro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ### 💻 Front-End  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
