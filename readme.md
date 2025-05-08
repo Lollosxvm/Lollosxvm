@@ -2,20 +2,23 @@
 ### 🌐 Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-sijinardi) 
 
-### 🎨 Design & Motion  
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,ae,pr,canva" />
-
 ### 💻 Front-End  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,angular,nodejs" alt="Front-End Icons" />
 
 ### 🗄️ Back-End & DB  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" alt="DB Icons" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" style="vertical-align:middle; margin-left:8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,java,php" alt="Back-End & DB Icons" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+       alt="Oracle" width="40"
+       style="vertical-align:middle; margin-left:8px;" />
 </p>
 
-### ⚙️ CI/CD & VCS  
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,postman" />
+### ⚙️ CI/CD, VCS & Tools  
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,npm,redhat,vscode,wordpress" alt="CI/CD, VCS & Tools Icons" />
+
+### 🎨 Design & Motion  
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,ae,pr,canva" alt="Design & Motion Icons" />
+
 
 ### 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollosxvm)](https://github.com/anuraghazra/github-readme-stats)</br>
