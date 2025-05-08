@@ -10,8 +10,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" />
 
 ### 🗄️ Back-End & DB  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" alt="DB Icons" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" style="vertical-align:middle; margin-left:8px;" />
+</p>
 
 ### ⚙️ CI/CD & VCS  
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman" />
