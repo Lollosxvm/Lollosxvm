@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" />
 
 ### 🗄️ Back-End & DB  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,spring" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" />
 
 ### ⚙️ CI/CD & VCS  
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman" />
