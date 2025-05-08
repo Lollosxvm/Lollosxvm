@@ -2,6 +2,37 @@
 ## 🌐 Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-sijinardi) 
 
+### 🎨 Design & Motion
+<table width="100%">
+  <tr>
+    <td width="12.5%" align="center">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40"/>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://skillicons.dev/icons?i=sketch" alt="Sketch" width="40"/>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="40"/>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="40"/>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://skillicons.dev/icons?i=xd" alt="XD" width="40"/>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" width="40"/>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" width="40"/>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://skillicons.dev/icons?i=canva" alt="Canva" width="40"/>
+    </td>
+  </tr>
+</table>
+
+
 ### 🎨 Design & Motion  
 <img src="https://skillicons.dev/icons?i=figma,sketch,ai,ps,xd,ae,pr,canva" />
 
@@ -12,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,spring" />
 
 ### ⚙️ CI/CD & VCS  
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,postman" />
 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollosxvm)](https://github.com/anuraghazra/github-readme-stats)</br>
