@@ -2,21 +2,19 @@
 ## 🌐 Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-sijinardi) 
 
-<table style="width:100%; border:none; border-collapse:collapse; border-spacing:0; margin:0;">
-  <tr>
-    <td style="width:50%; vertical-align:top; padding:8px; border:none;">
-      <h3>💻 Front-End</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" />
-    </td>
-    <td style="width:50%; vertical-align:top; padding:8px; border:none;">
-      <h3>🗄️ Back-End & DB</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" style="vertical-align:middle;" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-           alt="Oracle" width="40"
-           style="vertical-align:middle; margin-left:8px;" />
-    </td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; margin:0;">
+  <div style="flex:1; text-align:center; padding:8px;">
+    <h3>💻 Front-End</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" />
+  </div>
+  <div style="flex:1; text-align:center; padding:8px;">
+    <h3>🗄️ Back-End & DB</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" style="vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+         alt="Oracle" width="40"
+         style="vertical-align:middle; margin-left:8px;" />
+  </div>
+</div>
 
 
 
