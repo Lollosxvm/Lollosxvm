@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,ae,pr,canva" />
 
 ### 💻 Front-End  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,jsx,react,angular,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" />
 
 ### 🗄️ Back-End & DB  
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,spring" />
