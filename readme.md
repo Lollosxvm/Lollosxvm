@@ -12,6 +12,8 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF?style=for-the-badge&logo=premierepro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+### 💻 Front-End  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,jsx,react,angular,nodejs" />
 
 ### 💻 Front-End  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
