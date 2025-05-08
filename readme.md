@@ -14,11 +14,14 @@
 ### 🎨 Design & Motion  
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,ae,pr,canva" alt="Design & Motion Icons" />
 
+---
 
 ### 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollosxvm)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lollosxvm&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lollosxvm&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
