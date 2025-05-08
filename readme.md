@@ -6,12 +6,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,angular,nodejs" alt="Front-End Icons" />
 
 ### 🗄️ Back-End & DB  
-<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,java,php" alt="Back-End & DB Icons" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-       alt="Oracle" width="40"
-       style="vertical-align:middle; margin-left:8px;" />
-</p>
 
 ### ⚙️ CI/CD, VCS & Tools  
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,npm,redhat,vscode,wordpress" alt="CI/CD, VCS & Tools Icons" />
