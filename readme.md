@@ -1,26 +1,6 @@
 
-## 🌐 Info:
+### 🌐 Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-sijinardi) 
-
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 0; padding: 0;">
-  <!-- Colonna Front-End -->
-  <div style="flex: 1; text-align: center;">
-    <h3>💻 Front-End</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs" alt="Front-End" />
-  </div>
-  <!-- Colonna Back-End & DB -->
-  <div style="flex: 1; text-align: center;">
-    <h3>🗄️ Back-End &amp; DB</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring"
-         alt="DB Icons" style="vertical-align: middle; margin-right: 4px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-         alt="Oracle" width="40" style="vertical-align: middle;" />
-  </div>
-</div>
-
-
-
 
 ### 🎨 Design & Motion  
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,ae,pr,canva" />
@@ -37,7 +17,7 @@
 ### ⚙️ CI/CD & VCS  
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman" />
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollosxvm)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lollosxvm&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lollosxvm&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
