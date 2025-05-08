@@ -11,20 +11,7 @@
 
 ### 🗄️ Back-End & DB  
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring" />
-
-### 🗄️ Back-End & DB
-<table width="100%">
-  <tr>
-    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=mysql"    alt="MySQL"       width="40"/></td>
-    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"    width="40"/></td>
-    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=mongodb"  alt="MongoDB"     width="40"/></td>
-    <td width="20%" align="center"><img src="https://skillicons.dev/icons?i=spring"   alt="Spring"      width="40"/></td>
-    <td width="20%" align="center">
-      <!-- Oracle via Devicon -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/>
 
 ### ⚙️ CI/CD & VCS  
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,postman" />
