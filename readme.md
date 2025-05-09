@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-sijinardi) 
 
 ### 💻 Front-End  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,angular,nodejs" alt="Front-End Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,jquery,react,angular,nodejs" alt="Front-End Icons" />
 
 ### 🗄️ Back-End & DB  
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring,java,php" alt="Back-End & DB Icons" />
